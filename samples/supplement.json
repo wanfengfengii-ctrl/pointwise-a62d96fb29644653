@@ -1,0 +1,14 @@
+{
+  "batch_id": "coating-supplement",
+  "triggers": ["A", "B", "C"],
+  "original": {
+    "recording_id": "r0",
+    "left": [["A", 11, 31]],
+    "right": [["A", 18, 47], ["B", 11, 43], ["C", 22, 50]]
+  },
+  "supplement": {
+    "recording_id": "r1",
+    "lane": "left",
+    "plates": [["B", 11, 29], ["C", 12, 30]]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "batch_id": "coating-day",
+  "recording_id": "dual-spectrum-1",
+  "triggers": ["A", "B"],
+  "left": [["A", 11, 31], ["B", 14, 29]],
+  "right": [["B", 11, 43], ["A", 18, 47]]
+}
